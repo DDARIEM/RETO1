@@ -1,2 +1,3 @@
 Elementos git
 nuevo cambio
+no hay conexion a internet
